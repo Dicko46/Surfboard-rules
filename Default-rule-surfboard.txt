@@ -332,3 +332,11 @@ DOMAIN-SUFFIX,line.me,SelectGroup
 DOMAIN-SUFFIX,line-apps.com,SelectGroup
 DOMAIN-SUFFIX,line-cdn.net,SelectGroup
 DOMAIN-SUFFIX,line-scdn.net,SelectGroup
+
+# Telegram
+IP-CIDR,91.108.56.0/22,SelectGroup,no-resolve
+IP-CIDR,91.108.4.0/22,SelectGroup,no-resolve
+IP-CIDR,91.108.8.0/22,SelectGroup,no-resolve
+IP-CIDR,109.239.140.0/24,SelectGroup,no-resolve
+IP-CIDR,149.154.160.0/20,SelectGroup,no-resolve
+IP-CIDR,149.154.164.0/22,SelectGroup,no-resolve
